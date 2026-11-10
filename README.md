@@ -32,7 +32,7 @@ How to WP یک **اشتراک ماهانه** است — تقریباً به‌ق
 
 ## محصولات
 
-مجموعهٔ فعلی شامل **۲۸ افزونه** و **۱ قالب** است. ریپوهای کد خصوصی می‌مانند. کاتالوگ عمومی محصولات به‌زودی در [howtowp-catalog](https://github.com/howtowp/howtowp-catalog) منتشر می‌شود.
+مجموعهٔ فعلی شامل **۲۸ افزونه** و **۱ قالب** است. ریپوهای کد خصوصی می‌مانند. کاتالوگ عمومی محصولات در [howtowp-catalog](https://github.com/howtowp/howtowp-catalog) در دسترس است.
 
 ### ووکامرس و فروش
 
@@ -104,7 +104,7 @@ How to WP یک **اشتراک ماهانه** است — تقریباً به‌ق
 
 جزئیات طرح‌ها و دانلود: **[howtowp.ir](https://howtowp.ir)**
 
-کد محصولات در ریپوهای خصوصی نگهداری می‌شود. معرفی عمومی، نسخه و پیش‌نیازها به‌زودی در کاتالوگ عمومی [howtowp/howtowp-catalog](https://github.com/howtowp/howtowp-catalog) در دسترس خواهد بود.
+کد محصولات در ریپوهای خصوصی نگهداری می‌شود. معرفی عمومی، نسخه و پیش‌نیازها در کاتالوگ عمومی [howtowp/howtowp-catalog](https://github.com/howtowp/howtowp-catalog) در دسترس است.
 
 ## فناوری
 
@@ -119,7 +119,7 @@ How to WP یک **اشتراک ماهانه** است — تقریباً به‌ق
 ## ارتباط
 
 - وب‌سایت: [howtowp.ir](https://howtowp.ir)
-- کاتالوگ عمومی (به‌زودی): [howtowp/howtowp-catalog](https://github.com/howtowp/howtowp-catalog)
+- کاتالوگ عمومی: [howtowp/howtowp-catalog](https://github.com/howtowp/howtowp-catalog)
 
 </div>
 
@@ -138,7 +138,7 @@ The code is readable — no ionCube, no obfuscation — and you can install it o
 
 ### The collection
 
-There are currently **28 plugins** and **1 theme**. Product source repositories stay private. A public catalog is [coming soon](https://github.com/howtowp/howtowp-catalog).
+There are currently **28 plugins** and **1 theme**. Product source repositories stay private. The public catalog is at [howtowp/howtowp-catalog](https://github.com/howtowp/howtowp-catalog).
 
 #### WooCommerce & sales
 
@@ -210,7 +210,7 @@ Join the [How to WP club](https://howtowp.ir) for access to every plugin and the
 
 Plans and downloads: **[howtowp.ir](https://howtowp.ir)**
 
-Source repositories remain private. Public product pages, versions, and requirements will live in the [howtowp-catalog](https://github.com/howtowp/howtowp-catalog) repository (coming soon).
+Source repositories remain private. Public product pages, versions, and requirements live in the [howtowp-catalog](https://github.com/howtowp/howtowp-catalog) repository.
 
 ### Tech stack
 
@@ -225,4 +225,4 @@ The collection is built around WordPress and WooCommerce, with first-class suppo
 ### Contact
 
 - Website: [howtowp.ir](https://howtowp.ir)
-- Public catalog (coming soon): [howtowp/howtowp-catalog](https://github.com/howtowp/howtowp-catalog)
+- Public catalog: [howtowp/howtowp-catalog](https://github.com/howtowp/howtowp-catalog)
